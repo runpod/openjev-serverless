@@ -5,7 +5,7 @@ Run OpenJev FP8 as a load-balancer Serverless endpoint. Send text and typed ques
 **Status:** The repository and Serverless template are public. The template includes a published README, and the direct Serverless deployment link is below. Live GPU inference has not yet been verified for this repository. A reviewed Hub repository listing is a separate publication step; see [publication notes](docs/hub-publication.md).
 
 <!-- runpod-agent-setup:start -->
-**Using an AI agent?** Point it to https://agents.runpod.io/ to install the Runpod skills and MCP server.
+**For AI agents:** setup instructions for the Runpod skills and MCP server are at https://agents.runpod.io/
 <!-- runpod-agent-setup:end -->
 
 ## Deploy
